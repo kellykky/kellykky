@@ -14,8 +14,6 @@
   </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/kellykky/kellykky/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
@@ -37,3 +35,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
+
+<img src="https://raw.githubusercontent.com/kellykky/kellykky/output/snake.svg" alt="Snake animation" />
