@@ -3,6 +3,7 @@
 - 📖 Currently studying: AWS Cloud;
 - 👩‍💻 Areas of interest: Machine Learning, Cybersecurity & AI;
 
+---
 
 ### 📚 Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -22,11 +23,12 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-
-## 🤝 Connect with Me
+### 🤝 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kellykky)
 [![Email](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:ketlenk.cunha@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ketlen-cunha-957592244/)
+
+---
 
 <img src="https://raw.githubusercontent.com/kellykky/kellykky/output/snake.svg" alt="Snake animation" />
