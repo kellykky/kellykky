@@ -1,7 +1,7 @@
 ## Hi there, I'm Ketlen Kelly!👋
 - 📚 Information Systems student at the Federal University of Uberlândia (UFU);
 - 📖 Currently studying: AWS Cloud;
-- 👩‍💻 Areas of interest: Machine Learning, Cybersecurity & AI;
+- 👩‍💻 Areas of interest: Web Development, Cybersecurity & AI;
 
 ---
 
